@@ -35,7 +35,5 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zennyfz&show_icons=true&locale=en&layout=compact" alt="zennyfz" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zennyfz&show_icons=true&locale=en" alt="zennyfz" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zennyfz&" alt="zennyfz" /></p>
