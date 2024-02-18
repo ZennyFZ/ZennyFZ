@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nhan</h1>
-<h3 align="center">Welcome to my profile</h3>
-
-- 📚 I’m currently learning Software Engineering **at FPT University**
-
-- 📫 How to reach me **nhandinhdo291@gmail.com**
-
-<p align="left">
-</p>
-
 <h3 align="left">Language</h3>
 <p align="left"> 
 
