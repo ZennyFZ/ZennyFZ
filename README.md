@@ -3,7 +3,7 @@
 <p></p>
 <h3 id="-about-me">🦆 &nbsp;About Me</h3>
 <p>🔮 &nbsp;I'm a front-end wizard with HTML, CSS, JavaScript, ReactJS, and NextJS in my spellbook<br>
-  🧪  &nbsp;I moonlight as a backend and mobile dev when duty calls—Java, Express, ElysiaJS, SQL/NoSQL, you name it<br>
+  🧪  &nbsp;I moonlight as a backend and mobile dev when duty calls Java, Express, ElysiaJS, SQL/NoSQL, you name it<br>
   🎨 &nbsp;I can also do some light Photoshop sorcery and video editing<br>
   😴 &nbsp;my true identity is... a sleepyhead<br></p>
 <h3 id="-tech-stack">🛠 &nbsp;Technical Skills</h3>
