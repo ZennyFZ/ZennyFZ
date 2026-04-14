@@ -1,4 +1,4 @@
-<p><img src="https://upload-os-bbs.hoyolab.com/upload/2025/04/25/52c12772922ec3c66be45e887784f346_3970752128541151491.jpg" alt="Zenny The Trailblazer!!"></p>
+<p><img src="https://pbs.twimg.com/media/HFjZZgjW4AA79iE?format=jpg&name=4096x4096" alt="Zenny The Trailblazer!!"></p>
 <h2>Hii there! I’m Zenny~~</h2>
 <p></p>
 <h3 id="-about-me">🦆 &nbsp;About Me</h3>
