@@ -9,7 +9,7 @@
 <h3>🦆 About Me</h3>
 
 🔮 I'm a front-end wizard with HTML, CSS, JavaScript, ReactJS, and NextJS in my spellbook  
-🧪 I moonlight as a backend and mobile dev when duty calls — Java, Express, ElysiaJS, SQL/NoSQL  
+🧪 I moonlight as a backend and mobile dev when duty calls: Java, Express, ElysiaJS, SQL/NoSQL  
 🎨 I can also do some light Photoshop sorcery and video editing  
 😴 my true identity is... a sleepyhead  
 
